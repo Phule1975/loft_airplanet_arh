@@ -1,4 +1,7 @@
 @import url(/css/layout/base.css);
 @import url(/css/blocks/container.css);
 @import url(/css/blocks/header.css);
+@import url(/css/blocks/logo.css);
+@import url(/css/blocks/contacts.css);
+@import url(/css/blocks/maincontent.css);
 @import url(/css/blocks/footer.css);
